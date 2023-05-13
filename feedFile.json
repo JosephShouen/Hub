@@ -1,18 +1,68 @@
-{
-    "0": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w1.webp?raw=true",
-    "1": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w2.webp?raw=true",
-    "2": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w3.webp?raw=true",
-    "3": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w4.webp?raw=true",
-    "4": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w5.webp?raw=true",
-    "5": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w6.webp?raw=true",
-    "6": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w7.webp?raw=true",
-    "7": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w8.webp?raw=true",
-    "8": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w01.webp?raw=true",
-    "9": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w02.webp?raw=true",
-    "10": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w03.webp?raw=true",
-    "11": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w04.webp?raw=true",
-    "12": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w05.webp?raw=true",
-    "13": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w06.webp?raw=true",
-    "14": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w07.webp?raw=true",
-    "15": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w08.webp?raw=true",
+{"images":
+    [
+        {
+            "id": 0,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w1.webp?raw=true"
+        },
+        {
+            "id": 1,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w2.webp?raw=true"
+        },
+        {
+            "id": 2,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w3.webp?raw=true"
+        },
+        {
+            "id": 3,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w4.webp?raw=true"
+        },
+        {
+            "id": 4,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w5.webp?raw=true"
+        },
+        {
+            "id": 5,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w6.webp?raw=true"
+        },
+        {
+            "id": 6,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w7.webp?raw=true"
+        },
+        {
+            "id": 7,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w8.webp?raw=true"
+        },
+        {
+            "id": 8,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w01.webp?raw=true"
+        },
+        {
+            "id": 9,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w02.webp?raw=true"
+        },
+        {
+            "id": 10,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w03.webp?raw=true"
+        },
+        {
+            "id": 11,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w04.webp?raw=true"
+        },
+        {
+            "id": 12,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w05.webp?raw=true"
+        },
+        {
+            "id": 13,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w06.webp?raw=true"
+        },
+        {
+            "id": 14,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w07.webp?raw=true"
+        },
+        {
+            "id": 15,
+            "url": "https://github.com/JosephShouen/2022_2023-introduction_to_distributed_technologies-k4113c-fomin_e_g/blob/main/w08.webp?raw=true"
+        }
+    ]
 }
